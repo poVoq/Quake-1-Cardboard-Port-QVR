@@ -1,7 +1,7 @@
 # Quake-1-Cardboard-Port-QVR
 Based on QI4A &amp; Darkplaces. Lets you play Quake1 based games with Google Cardboard VR headset.
 
-This is the code for QVR version 1.0.1_2 (March 26th 2016).
+This is the code for QVR version 1.0.2_3 (May 27th 2016).
 
 I am not affiliated with the original author of the Play Store app (https://play.google.com/store/apps/details?id=com.drbeef.qvr). But the original author did not create a GitHub repository for this code and has chosen to provide the code only to people who purchase the app (the author included the sources in the .apk as necessary by the GPL license).
 
