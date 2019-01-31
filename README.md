@@ -2,6 +2,8 @@
 Looks like the original author decided to upload the source code after all:
 https://github.com/DrBeef/QVR
 
+Now also as DaydreamVR version: https://github.com/DrBeef/QVR-Daydream
+
 # Quake-1-Cardboard-Port-QVR
 Based on QI4A &amp; Darkplaces. Lets you play Quake1 based games with Google Cardboard VR headset.
 
